@@ -16,7 +16,7 @@
     <dependencies>
 
         <dependency>
-            <groupId>com.roskart.dropwizard</groupId>
+            <groupId>com.learndirect</groupId>
             <artifactId>dropwizard-jaxws</artifactId>
             <version>${project.version}</version>
         </dependency>
